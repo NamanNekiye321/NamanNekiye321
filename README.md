@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 4-year computer science grad degree
 - 🌱 I’m currently doing bachelors in computer science
-- 📫 How to reach me: insta - naman_11086260
+- 
 <!--
 **NamanNekiye321/NamanNekiye321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
