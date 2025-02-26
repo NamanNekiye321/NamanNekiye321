@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on 4-year computer science grad degree
+- 🔭 I’m currently working on 4-year computer science undergrad degree
 - 🌱 I’m currently doing bachelors in computer science
 - 
 <!--
