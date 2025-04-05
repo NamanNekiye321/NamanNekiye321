@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Discord:  _bweast_01<br>gmail: namannekiye321@gmail.com</p>
+<p align="left">Discord:  _naman_01<br>gmail: namannekiye321@gmail.com</p>
 
 ###
 
