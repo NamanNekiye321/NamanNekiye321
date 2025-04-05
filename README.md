@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! I’m Naman, a Computer Science student from India with a strong interest in software development and data science.</h2>
 
 ###
@@ -10,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47kbwl9qvcklb1p54dpwdzf6zy4i2dal025rnqvajg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="left">Discord:  _bweast_01<br>gmail: namannekiye321@gmail.com</p>
 
 ###
 
@@ -41,17 +40,18 @@
   <a href="https://www.instagram.com/naman_nekiye/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="namannekiye321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/naman-nekiye-760a3620b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="paypal.me/NamanNekiye426" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47kbwl9qvcklb1p54dpwdzf6zy4i2dal025rnqvajg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
